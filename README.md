@@ -1,4 +1,4 @@
-#Todo-List
+#TodoList
 Tech Stack used with this project
 Eclipse
 Html/CSS/Bootstrap/XML
